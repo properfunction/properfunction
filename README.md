@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Koschmann</h1>
-<h3 align="center">A passionate software engineer from Brisbane, Australia</h3>
+<h3 align="center">A passionate software engineer from Australia</h3>
 
 - 👨‍💻 My projects are available at [davidkoschmann.netlify.app](davidkoschmann.netlify.app)
 
