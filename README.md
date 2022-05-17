@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Koschmann</h1>
 <h3 align="center">A passionate software engineer from Brisbane, Australia</h3>
 
-- 👨‍💻 All of my projects are available at [davidkoschmann.netlify.app](davidkoschmann.netlify.app)
+- 👨‍💻 My projects are available at [davidkoschmann.netlify.app](davidkoschmann.netlify.app)
 
 - 💬 Ask me about **JavaScript and football**
 
